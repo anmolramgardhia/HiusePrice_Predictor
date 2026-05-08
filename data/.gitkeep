@@ -1,0 +1,7 @@
+# Place dataset files here — do NOT commit to git
+# Download from: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+#
+# Required files:
+#   train.csv            — training data with SalePrice
+#   test.csv             — test data without SalePrice (for Kaggle submission)
+#   data_description.txt — De Cock's feature dictionary (essential reading)

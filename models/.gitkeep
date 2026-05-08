@@ -1,0 +1,5 @@
+# Trained model files are saved here automatically after running train.py
+# Do NOT commit .joblib files to git — add *.joblib to .gitignore
+#
+# Generated file:
+#   house_price_model.joblib — serialized best model pipeline
